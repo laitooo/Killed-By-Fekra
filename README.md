@@ -8,4 +8,6 @@ We aim to record history of unfinished projects and keep them as a reminder to k
 
 You can join the discussion and suggest projects or ideas or ask questions.
 
-developed using [Next.js](https://nextjs.org/) Also used [TailwindCss](https://tailwindcss.com) with [DaisyUI](https://daisyui.com)
+Developed using [Next.js](https://nextjs.org/) Also used [TailwindCss](https://tailwindcss.com) with [DaisyUI](https://daisyui.com).
+
+This project was Inspired by [Killed by Google](https://killedbygoogle.com) project, Great thanks to [Cody Ogden](https://github.com/codyogden).
