@@ -4,4 +4,5 @@ export type Project = {
     description: string;
     date: Date;
     logo: string;
+    screenshots: string[];
 }
